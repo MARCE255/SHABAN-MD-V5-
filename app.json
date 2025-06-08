@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~2FtmDYCa#JWPbYTv7m7VcHQYAExHt9L10aSTvkxq0vEZabDHFGP8"
     },  
     
     "STICKER_NAME": {
@@ -28,7 +28,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "="
     },
     
     "MODE": {
