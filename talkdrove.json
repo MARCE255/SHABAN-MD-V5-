@@ -9,13 +9,13 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
-        "value":"",
+        "value":"SHABAN-MD~2FtmDYCa#JWPbYTv7m7VcHQYAExHt9L10aSTvkxq0vEZabDHFGP8",
         "required": true
         
       },
       "PREFIX": {
         "description": "Bot command prefix, (e.g, . , ! @ etc",
-        "value":".",
+        "value":"=",
         "required": true
         
       },
@@ -30,7 +30,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "="
     },
     
     "MODE": {
@@ -94,13 +94,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "DJ MACHA255😈"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "+255788213342"
 
     }, 
 
